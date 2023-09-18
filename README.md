@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbleduigou&label=Profile%20views&color=0e75b6&style=flat" alt="jbleduigou" /> </p>
 
-- 📝 I regularly write articles on [https://www.jbleduigou.fr](https://www.jbleduigou.fr)
+- 📝 I regularly write articles on [https://www.jbleduigou.com](https://www.jbleduigou.com)
 
 - 💬 Ask me about **AWS, Golang, Docker and CI/CD.**
 
